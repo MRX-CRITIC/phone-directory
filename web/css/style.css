@@ -1,0 +1,21 @@
+.container-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-add {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #495057;
+    color: #FFFFFF;
+    width: 50%;
+    border-radius: 30px;
+    padding: 5vh;
+}
+
+.bg-dark {
+    margin-bottom: 2em;
+    background-color: #495057 !important;
+}
