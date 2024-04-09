@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/views/index.php
+RewriteRule ^$ /views/index.php [L]

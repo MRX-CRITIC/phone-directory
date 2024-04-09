@@ -16,7 +16,7 @@ $contacts = $contactsBook->getContacts();
 <div class="container-main">
     <div class="container-add">
         <a class="btn btn-primary"
-           href="addPhone.php"
+           href="../views/addPhone.php"
            role="button"
            style="width: 100%; margin-bottom: 2vh;">
             Добавить контакт
